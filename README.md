@@ -44,7 +44,3 @@ If you did factory reset on your MacBook and want to pass without enrolling in p
 you are good to go...
 
 <br>
-
-## If the following was helpful, maybe 
-
-<a href="https://www.buymeacoffee.com/alucardness"><img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" width="50"/> Buy me a coffee</a>
